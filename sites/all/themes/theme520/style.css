@@ -107,7 +107,7 @@ height:80px;
 }
 
 .bg-cont { background:url(images/bg-cont.gif) top repeat-x #f2e5cd; border:4px solid #f8f6f1; overflow:hidden; padding-bottom:20px;}
-.content img { padding:5px; border:1px solid #bab19d}
+.content img { padding:5px; border:0px solid #bab19d}
 .bg-line { background:url(images/bg-line.gif) repeat-y 299px 0; width:100%; overflow:hidden; margin-top:27px;}
 .bg-line-cont { background:url(images/bg-line.gif) repeat-y 307px 0; width:100%; overflow:hidden;}
 .col-left { float:left; width:275px; margin-right:65px;}
