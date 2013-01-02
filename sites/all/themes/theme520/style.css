@@ -63,15 +63,16 @@ h1.site-name a { color:#3b3b3b; text-decoration:none; font-weight:normal; line-h
 
 /* .secondary-menu { background:url(images/bg-navigation.png) no-repeat 0 0; width:137px; float:right; margin-right:55px;} */
 
+.secondary-menu {
 background: black;
-width: 137px;
+
 float: right;
-margin-right: 55px;
+
 font-size: 14px;
 color: white;
 padding: 5px 15px;
 border-bottom-left-radius: 5px;
-border-bottom-right-radius: 5px;
+border-bottom-right-radius: 5px;}
 
 ul.secondary-links {margin:0px; padding:0px 0px 0px 43px; list-style:none; text-align:center;}
 ul.secondary-links li { float:left; padding:0px 0px 0 0;}
