@@ -36,7 +36,8 @@
             <div class="head-row1">
                 <div class="main">
                     <div class="secondary-menu">
-                        <?php print theme('links', $secondary_links, array('class' => 'links secondary-links')) ?>
+                        <!-- <?php print theme('links', $secondary_links, array('class' => 'links secondary-links')) ?> -->
+                        <span>Phone: (214) 340-9700 | Fax: (214) 340-9710<span><a href="http://www.facebook.com/#"><img alt="Follow Us on Facebook" src="/sites/all/themes/theme520/images/facebook-icon.png" style="width: 32px; height: 32px; " /></a> <a href="http://www.linkedin.com/company/555979?trk=NUS_CMPY_TWIT">s<img alt="Connect on Lined In" src="/sites/all/themes/theme520/images/LinkedInIcon.png" style="width: 32px; height: 32px;" /></a>
                     </div>
                 </div>
             </div>
