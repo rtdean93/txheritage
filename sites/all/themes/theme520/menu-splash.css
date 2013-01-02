@@ -1,0 +1,43 @@
+/* CSS Document for primary links */
+* { font-family:Arial, Helvetica, sans-serif;}
+.yuimenubar{visibility:visible;position:static;}
+.yuimenu .yuimenu,.yuimenubar .yuimenu{visibility:hidden;position:absolute;top:-10000px;left:-10000px;}
+.yui-menu-shadow{position:absolute;visibility:hidden;z-index:-1;}
+
+.yuimenubar ul, .yuimenu ul { list-style-type:none;}
+
+.yuimenubar ul, .yuimenu ul, .yuimenubar li, .yuimenu li, .yuimenu h6, .yuimenubar h6 { margin:0; padding:0;}
+#productsandservices { overflow:hidden; padding-left:0px; position:relative; z-index:1}
+
+.yuimenuitemlabel, .yuimenubaritemlabel { white-space:nowrap;}
+
+.hide-scrollbars * { overflow:hidden;}
+
+.hide-scrollbars select { display:none;}
+
+.yuimenu.show-scrollbars { overflow:visible;}
+
+
+.yui-skin-sam .yuimenubar > .bd > ul:after { clear:both; content:"."; display:block; height:0; line-height:0; visibility:hidden; }
+
+.yui-skin-sam .yuimenubaritem { float:left;}
+
+.yui-skin-sam .yuimenubarnav .yuimenubaritem { line-height:1.42em; background:url(images/bg-li.png)  no-repeat right 77px}
+.yui-skin-sam .yuimenubarnav .yuimenubaritem:last-child { background:none;}
+
+.yui-skin-sam .yuimenubaritemlabel { display:block; *position:relative; text-decoration:none; text-align:center; background:none; text-transform:uppercase; line-height:1.42em; color:#161111; font-size:18px !important; padding:70px 25px 0px 25px;}
+.yui-skin-sam .yuimenubaritemlabel-selected, .yui-skin-sam .yuimenubaritem a.active, .yui-skin-sam .yuimenubaritem-hassubmenu-selected{}
+
+/** + html .yui-skin-sam .yuimenubarnav .yuimenubaritemlabel { padding:5px 0px 0px 0px; }*/
+
+
+.yui-skin-sam .yuimenu .bd { left:0; top:0; overflow:hidden; width:146px;}
+.yui-skin-sam .yuimenu ul { padding:10px 0px;}
+
+.yui-skin-sam li.first-of-type a.active, .yui-skin-sam li.first-of-type a.yuimenubaritemlabel-selected { }
+
+/*.yui-skin-sam .yuimenubarnav .yuimenubaritemlabel-hassubmenu-selected, .yui-skin-sam .yuimenubaritem-hassubmenu a.active{background:none;}*/
+
+.yui-skin-sam .yuimenuitemlabel{ font-size:12px; color:#161111; line-height:25px; text-decoration:none; text-transform:uppercase; font-weight:normal; background:url(images/bg-li-drop.png); display:block; font-family:"Times New Roman", Times, serif; text-align:center}
+.yui-skin-sam .yuimenuitemlabel-selected, .yui-skin-sam .bd .yuimenuitem a.active{ overflow:hidden; color:#d84a00;}
+.yui-skin-sam .yuimenu li { line-height:25px; padding-bottom:1px}

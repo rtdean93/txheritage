@@ -1,0 +1,1 @@
+Cufon.replace('.title h3, .yui-skin-sam .yuimenubaritemlabel, .yui-skin-sam .yuimenuitemlabel, h1.title a, h2', { fontFamily:'Romul' , hover: true });

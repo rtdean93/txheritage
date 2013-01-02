@@ -1,0 +1,31 @@
+/* CSS Document by Leo */
+html, body#splash { height:100%;}
+body#splash { background:url(images/bg-splash.jpg) no-repeat center 0 #251c1c}
+body#splash #main { width:990px; height:100%; margin:0 auto;}
+
+/*********---SPLASH STYLES---**********/
+#splash { background:url(images/splash.jpg) no-repeat center center;}
+#splash .min-width, #splash #main{ height:100%;}
+.logo-img { float:left; margin-right:12px;}
+.splash-outer { display:table; width:100%; height:100%;}
+.splash-cont { display:table-cell; vertical-align:middle;}
+
+#footer-splash { color:#554b3d; font-size:9px; text-align:center; width:100%; overflow:hidden; position:absolute; bottom:0; height:46px; left:0; margin:0; background:url(images/bg-bot.gif) bottom repeat-x; text-transform:uppercase;}
+.foot { text-align:left; margin:0 auto; width:980px; padding:17px 0px 15px 0px; background:url(images/bg-bot2.png) no-repeat 30px 0;}
+#footer-splash a { color:#554b3d; text-decoration:underline; font-weight:normal;}
+#footer-splash a:hover{ text-decoration:none;}
+#footer-splash .foot span { padding-left:54px;}
+
+.splash-row { height:161px; background:url(images/bg-splash-row.png)}
+.splash-row .col1 { padding-top:41px; float:left; width:332px;}
+.splash-row .col2 { float:left; background:url(images/bg-menu.png) no-repeat 0 11px; height:161px;}
+
+#splash .splash-top-menu { width:100%; overflow:hidden; position:absolute; top:0; height:46px; left:0px; margin:0;}
+#splash .splash-menu-indent { text-align:left; margin:0 auto; width:990px;}
+#splash .secondary-menu { background:url(images/bg-navigation.png) no-repeat 0 0; width:133px; float:right;}
+#splash ul.secondary-links {margin:0px; padding:0px 0px 0px 18px; list-style:none; text-align:center;}
+#splash ul.secondary-links li { float:left; padding:0px 0px 0 0;}
+#splash ul.secondary-links li a { color:#8a8a8a; text-decoration:none; text-transform:none; font-size:9px; display:block; padding:8px; background:url(images/bg-li-splash.gif) no-repeat right 10px; text-transform:uppercase;}
+#splash ul.secondary-links li a:hover, ul.secondary-links li a.active { color:#d0b000}
+#splash ul.secondary-links li.last a { background:none;}
+/*********---SPLASH STYLES---**********/

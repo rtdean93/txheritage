@@ -1,0 +1,11 @@
+name = YUI Menu
+description = YUI Menu Component 
+package = "Yahoo YUI"
+dependencies[] = yui
+core = 6.x
+; Information added by drupal.org packaging script on 2010-09-04
+version = "6.x-1.2"
+core = "6.x"
+project = "yuimenu"
+datestamp = "1283603512"
+
