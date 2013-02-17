@@ -2,7 +2,8 @@
 * { margin:0; padding:0;}
 html, body { height:100%}
 body#body{
-	background:url('images/summer_landscape.jpg') repeat 0 fixed #251c1c;
+	background:url('images/3726659.jpg') 0 fixed #251c1c;
+	background-size: cover;
 	font-family:Arial, Helvetica, sans-serif;
 	font-size:12px;
 	color:#8a7e66;
