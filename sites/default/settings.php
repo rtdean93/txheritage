@@ -88,7 +88,7 @@
  *   $db_url = 'mysqli://username:password@localhost/databasename';
  *   $db_url = 'pgsql://username:password@localhost/databasename';
  */
-$db_url = 'mysqli://txherita_admin:amber9700@localhost/txherita_drupal';
+$db_url = 'mysqli://root:root@localhost/txherita_drupal';
 $db_prefix = '';
 
 /**
